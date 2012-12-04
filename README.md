@@ -3,6 +3,15 @@ Travaux dirigés sur les tests unitaires
 
 Le but est de calculer le score d'un match de tennis
 
+Installer
+---------
+
+Dans une console entrez
+
+    $ ./bin/bootstrap.sh
+
+et tout est prêt
+
 User stories
 ------------
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+        colors                      = "true"
+        convertErrorsToExceptions   = "true"
+        convertNoticesToExceptions  = "true"
+        convertWarningsToExceptions = "true"
+        syntaxCheck                 = "false"
+        bootstrap                   = "tests.php">
+
+    <testsuites>
+        <testsuite name="Tennis">
+            <directory>./Tests/</directory>
+        </testsuite>
+    </testsuites>
+
+    <logging>
+        <log type="junit" target="../build/logs/junit.xml"
+            logIncompleteSkipped="false"/>
+    </logging>
+
+</phpunit>

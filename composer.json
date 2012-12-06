@@ -7,6 +7,6 @@
         "symfony/class-loader": "2.2.x-dev"
     },
     "autoload": {
-        "psr-0": { "Tennis": "Lib" }
+        "psr-0": { "Tennis": "lib" }
     }
 }

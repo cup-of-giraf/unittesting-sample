@@ -2,3 +2,5 @@ vendor
 bin/composer.phar
 bin/phpunit.phar
 build/*
+
+phpunit.xml

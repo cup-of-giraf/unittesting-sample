@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Tennis;
+namespace Tests\Tennis\Match;
 
 class MatchTest extends \PHPUnit_Framework_TestCase
 {

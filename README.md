@@ -31,7 +31,7 @@ Dans un jeu avec un joueur ayant l'avantage, quand l'autre joueur marque, il y a
 
 Dans un jeu avec un joueur ayant l'avantage, quand ce joueur marque, ce joueur gagne le jeu.
 
-Dans un jeu avec deux joueur à égalité, quandun joueur marque, ce joueur a l'avantage.
+Dans un jeu avec deux joueur à égalité, quand un joueur marque, ce joueur a l'avantage.
 
 ### Vie d'un set
 

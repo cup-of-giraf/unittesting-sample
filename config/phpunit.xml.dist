@@ -9,7 +9,7 @@
 
     <testsuites>
         <testsuite name="Tennis">
-            <directory>./Tests/</directory>
+            <directory>../tests/</directory>
         </testsuite>
     </testsuites>
 

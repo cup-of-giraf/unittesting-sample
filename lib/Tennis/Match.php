@@ -117,7 +117,7 @@ class Match
 
     protected function playerWinGame($player)
     {
-        $this->wonSet[$player] += 1;
+        $this->wonGame[$player] += 1;
         $this->initGame();
     }
 

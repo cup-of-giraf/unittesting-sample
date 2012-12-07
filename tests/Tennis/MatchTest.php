@@ -26,7 +26,7 @@ class MatchTest extends \PHPUnit_Framework_TestCase
             $match->score($player);
         }
 
-        $this->assertEquals(1, $match->getWonSet($player));
+        $this->assertEquals(1, $match->getWonGame($player));
     }
 
     /**
@@ -91,7 +91,7 @@ class MatchTest extends \PHPUnit_Framework_TestCase
 
         $match->score($player);
 
-        $this->assertEquals(1, $match->getWonSet($player));
+        $this->assertEquals(1, $match->getWonGame($player));
     }
 
     /**
